@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TALL_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TALL CUNT angry0000" x="0" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT angry0001" x="0" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT angry LOOP0000" x="434" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT angry LOOP0001" x="434" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT angry LOOP0002" x="868" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT angry LOOP0003" x="868" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT angry LOOP0004" x="1302" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT angry LOOP0005" x="1302" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused0000" x="1736" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT confused0001" x="1736" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT confused LOOP0000" x="2170" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused LOOP0001" x="2170" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused LOOP0002" x="2604" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused LOOP0003" x="2604" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused LOOP0004" x="3038" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT confused LOOP0005" x="3038" y="0" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default0000" x="3472" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT default0001" x="3472" y="0" width="424" height="866"/>
+	<SubTexture name="TALL CUNT default LOOP0000" x="0" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default LOOP0001" x="0" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default LOOP0002" x="434" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default LOOP0003" x="434" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default LOOP0004" x="868" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT default LOOP0005" x="868" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited0000" x="1302" y="877" width="424" height="866"/>
+	<SubTexture name="TALL CUNT excited0001" x="1302" y="877" width="424" height="866"/>
+	<SubTexture name="TALL CUNT excited LOOP0000" x="1736" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited LOOP0001" x="1736" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited LOOP0002" x="2170" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited LOOP0003" x="2170" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited LOOP0004" x="2604" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT excited LOOP0005" x="2604" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock0000" x="3038" y="877" width="424" height="866"/>
+	<SubTexture name="TALL CUNT shock0001" x="3038" y="877" width="424" height="866"/>
+	<SubTexture name="TALL CUNT shock LOOP0000" x="3472" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock LOOP0001" x="3472" y="877" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock LOOP0002" x="0" y="1754" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock LOOP0003" x="0" y="1754" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock LOOP0004" x="434" y="1754" width="424" height="867"/>
+	<SubTexture name="TALL CUNT shock LOOP0005" x="434" y="1754" width="424" height="867"/>
+</TextureAtlas>

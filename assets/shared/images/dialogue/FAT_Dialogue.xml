@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FAT_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FAT Angry0000" x="0" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry0001" x="0" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0000" x="494" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0001" x="494" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0002" x="988" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0003" x="988" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0004" x="0" y="0" width="484" height="623"/>
+	<SubTexture name="FAT Angry LOOP0005" x="0" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED 0000" x="1482" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED 0001" x="1482" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0000" x="1976" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0001" x="1976" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0002" x="2470" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0003" x="2470" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0004" x="1482" y="0" width="484" height="623"/>
+	<SubTexture name="FAT CONFUSED LOOP0005" x="1482" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED 0000" x="2964" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED 0001" x="2964" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0000" x="3458" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0001" x="3458" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0002" x="0" y="633" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0003" x="0" y="633" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0004" x="2964" y="0" width="484" height="623"/>
+	<SubTexture name="FAT EXCITED LOOP0005" x="2964" y="0" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC0000" x="494" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC0001" x="494" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0000" x="988" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0001" x="988" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0002" x="1482" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0003" x="1482" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0004" x="494" y="633" width="484" height="623"/>
+	<SubTexture name="FAT GENERIC LOOP0005" x="494" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock0000" x="1976" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock0001" x="1976" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0000" x="1976" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0001" x="1976" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0002" x="2470" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0003" x="2470" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0004" x="2964" y="633" width="484" height="623"/>
+	<SubTexture name="FAT Shock LOOP0005" x="2964" y="633" width="484" height="623"/>
+</TextureAtlas>

@@ -1,0 +1,58 @@
+{
+	"storyName": "KRINGE WEEK WITH DUMB KIDZ",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekkids",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Keith",
+			"pico",
+			[
+				120,
+				180,
+				0
+			]
+		],
+		[
+			"From Fnf",
+			"spooky",
+			[
+				180,
+				0,
+				255
+			]
+		],
+		[
+			"Too Fat",
+			"bf-pixel",
+			[
+				0,
+				180,
+				255
+			]
+		],
+		[
+			"stupid kids drama",
+			"parents",
+			[
+				200,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Kids"
+}

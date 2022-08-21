@@ -1,0 +1,3211 @@
+{
+	"song": {
+		"player1": "bf",
+		"player2": "pico",
+		"notes": [
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						0,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						250,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						500,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						875,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						1125,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						1250,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						1500,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						1750,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						1875,
+						0,
+						125,
+						"Shit Note"
+					],
+					[
+						1500,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						1500,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						750,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						875,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						1000,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						1125,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						1250,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						1375,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						1625,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						1750,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						1875,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						1750,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						750,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						875,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						1000,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						1125,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						1250,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						1375,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						1500,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						1625,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						1750,
+						4,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						2250,
+						1,
+						0
+					],
+					[
+						2500,
+						3,
+						0
+					],
+					[
+						2875,
+						3,
+						0
+					],
+					[
+						3125,
+						1,
+						0
+					],
+					[
+						3250,
+						0,
+						0
+					],
+					[
+						3500,
+						2,
+						0
+					],
+					[
+						3500,
+						3,
+						0
+					],
+					[
+						3750,
+						1,
+						0
+					],
+					[
+						3875,
+						0,
+						125
+					],
+					[
+						2000,
+						1,
+						0
+					],
+					[
+						2375,
+						5,
+						0,
+						"Fat Note"
+					],
+					[
+						2500,
+						5,
+						0,
+						"Fat Note"
+					],
+					[
+						2625,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						2750,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						2875,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						3000,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						3375,
+						4,
+						0,
+						"Fat Note"
+					],
+					[
+						3500,
+						5,
+						0,
+						"Fat Note"
+					],
+					[
+						3625,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						3750,
+						7,
+						0,
+						"Tall Note"
+					],
+					[
+						3875,
+						4,
+						0,
+						"Tall Note"
+					],
+					[
+						2375,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						2625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						2875,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						3500,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						4000,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						4250,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						4500,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						4875,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						5125,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						5250,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						5500,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						5750,
+						3,
+						125,
+						"Shit Note"
+					],
+					[
+						5750,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						5875,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						5500,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						4375,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						4500,
+						0,
+						125,
+						"Tall Note"
+					],
+					[
+						4750,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						4875,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						5000,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						5125,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						5250,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						5375,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						5625,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						5750,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						4375,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						4500,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						4750,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						4875,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5000,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5125,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5375,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5250,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5625,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5750,
+						5,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						6000,
+						1,
+						0
+					],
+					[
+						6250,
+						1,
+						0
+					],
+					[
+						6500,
+						3,
+						0
+					],
+					[
+						6875,
+						3,
+						0
+					],
+					[
+						7125,
+						1,
+						0
+					],
+					[
+						7250,
+						0,
+						0
+					],
+					[
+						7500,
+						3,
+						0
+					],
+					[
+						7500,
+						2,
+						0
+					],
+					[
+						7750,
+						3,
+						125
+					],
+					[
+						6250,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						6375,
+						5,
+						125,
+						"Fat Note"
+					],
+					[
+						6750,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						6625,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						7250,
+						5,
+						125,
+						"Fat Note"
+					],
+					[
+						7125,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						7500,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						7750,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						7750,
+						6,
+						0,
+						"Tall Note"
+					],
+					[
+						7750,
+						4,
+						0,
+						"Shit Note"
+					],
+					[
+						6125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						6375,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						6625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						7000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						7375,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						7625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						7625,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						7875,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						8250,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						8500,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						9000,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						8000,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						8750,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						9750,
+						2,
+						0,
+						"Fat Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						10250,
+						0,
+						0
+					],
+					[
+						10500,
+						1,
+						0
+					],
+					[
+						11000,
+						2,
+						0
+					],
+					[
+						10875,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						11875,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						10000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						10750,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						11250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						11500,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						11750,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						12250,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						12500,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						12750,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						13000,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						12750,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						13875,
+						0,
+						0,
+						"Fat Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						14250,
+						0,
+						0
+					],
+					[
+						14500,
+						2,
+						0
+					],
+					[
+						14750,
+						3,
+						0
+					],
+					[
+						15000,
+						0,
+						0
+					],
+					[
+						14000,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						15250,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						15500,
+						4,
+						0,
+						"Fat Note"
+					],
+					[
+						14000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						15500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						14125,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						14375,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						14625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						14750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						14875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						15000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						15125,
+						1,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						16125,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						16875,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						17750,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						16250,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						16500,
+						1,
+						0,
+						"Fat Note"
+					],
+					[
+						16750,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						17000,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						17500,
+						2,
+						0,
+						"Fat Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						18250,
+						0,
+						0
+					],
+					[
+						18500,
+						1,
+						0
+					],
+					[
+						18750,
+						3,
+						0
+					],
+					[
+						19000,
+						0,
+						0
+					],
+					[
+						19500,
+						2,
+						0
+					],
+					[
+						18875,
+						7,
+						0,
+						"Fat Note"
+					],
+					[
+						19875,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						18000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						18375,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						18500,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18625,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						18625,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						18750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						18875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						19000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						19125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						19250,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						19375,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						19500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						19625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						19750,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						19875,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						19875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						19875,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						19875,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						20000,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						20250,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						20750,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						21000,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						21250,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						21750,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						20000,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						20250,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						20750,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						21000,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						21250,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						21750,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						20000,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						20250,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						20750,
+						0,
+						0,
+						"Tall Note"
+					],
+					[
+						21000,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						21250,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						21750,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						21750,
+						1,
+						0,
+						"Tall Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						22000,
+						3,
+						0
+					],
+					[
+						22250,
+						1,
+						0
+					],
+					[
+						22750,
+						2,
+						0
+					],
+					[
+						23000,
+						3,
+						0
+					],
+					[
+						23250,
+						1,
+						0
+					],
+					[
+						23750,
+						0,
+						0
+					],
+					[
+						22000,
+						5,
+						0,
+						"Shit Note"
+					],
+					[
+						22500,
+						6,
+						0,
+						"Fat Note"
+					],
+					[
+						22250,
+						5,
+						0,
+						"Tall Note"
+					],
+					[
+						22875,
+						5,
+						0,
+						"Shit Note"
+					],
+					[
+						23125,
+						4,
+						0,
+						"Shit Note"
+					],
+					[
+						23250,
+						7,
+						0,
+						"Tall Note"
+					],
+					[
+						23500,
+						6,
+						0,
+						"Shit Note"
+					],
+					[
+						23500,
+						7,
+						0,
+						"Shit Note"
+					],
+					[
+						23500,
+						5,
+						0,
+						"Fat Note"
+					],
+					[
+						23500,
+						4,
+						0,
+						"Tall Note"
+					],
+					[
+						22000,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						22250,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						22500,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						22500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						22750,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						23000,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						23250,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						23750,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						23500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						23500,
+						1,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						24000,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						24500,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						25000,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						25250,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						25500,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						24000,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						24500,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						25000,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						24000,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						24500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						25000,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						25000,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						25250,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						25500,
+						4,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						26000,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						26250,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						26500,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						26750,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						27000,
+						2,
+						0,
+						"Shit Note"
+					],
+					[
+						27250,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						27500,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						27500,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						27500,
+						2,
+						0,
+						"Tall Note"
+					],
+					[
+						26000,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						26500,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						27000,
+						0,
+						0,
+						"Fat Note"
+					],
+					[
+						26250,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						26750,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						27250,
+						1,
+						0,
+						"Tall Note"
+					],
+					[
+						26000,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						26000,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						26250,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						26250,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						26500,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						26500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						26750,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						26750,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						27000,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						27000,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						27250,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						27250,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						27500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						27500,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						27500,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						27500,
+						4,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						28000,
+						3,
+						0
+					],
+					[
+						28500,
+						0,
+						0
+					],
+					[
+						29000,
+						1,
+						0
+					],
+					[
+						29250,
+						1,
+						0
+					],
+					[
+						29500,
+						0,
+						0
+					],
+					[
+						28125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						28250,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						28625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						28750,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						28875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						29125,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						29375,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						29625,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						30000,
+						1,
+						0
+					],
+					[
+						30250,
+						2,
+						0
+					],
+					[
+						30500,
+						3,
+						0
+					],
+					[
+						30750,
+						0,
+						0
+					],
+					[
+						31000,
+						2,
+						0
+					],
+					[
+						31250,
+						3,
+						0
+					],
+					[
+						31500,
+						1,
+						0
+					],
+					[
+						30125,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						30375,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						30625,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						30875,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						31125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						31375,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						31625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						31750,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						31875,
+						1,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						32500,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						33000,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						33500,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						33750,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						32750,
+						3,
+						0,
+						"Tall Note"
+					],
+					[
+						33250,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						33750,
+						2,
+						0,
+						"Fat Note"
+					],
+					[
+						32750,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						33250,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						33750,
+						6,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						34250,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						34750,
+						0,
+						0,
+						"Shit Note"
+					],
+					[
+						34500,
+						3,
+						0,
+						"Fat Note"
+					],
+					[
+						35000,
+						2,
+						375,
+						"Fat Note"
+					],
+					[
+						35500,
+						1,
+						375,
+						"Tall Note"
+					],
+					[
+						35000,
+						1,
+						0,
+						"Shit Note"
+					],
+					[
+						35500,
+						3,
+						0,
+						"Shit Note"
+					],
+					[
+						34500,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						35000,
+						6,
+						250,
+						"Hurt Note"
+					],
+					[
+						35500,
+						5,
+						375,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						36500,
+						0,
+						0
+					],
+					[
+						36750,
+						3,
+						0
+					],
+					[
+						37000,
+						1,
+						0
+					],
+					[
+						37250,
+						3,
+						0
+					],
+					[
+						37500,
+						1,
+						0
+					],
+					[
+						37750,
+						2,
+						0
+					],
+					[
+						36000,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						36125,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						36250,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						36375,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						36625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						36625,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						36875,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						36875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						37125,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						37125,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						37375,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						37375,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						37625,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						37625,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						37875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						37875,
+						2,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						38250,
+						0,
+						0
+					],
+					[
+						38500,
+						3,
+						0
+					],
+					[
+						38750,
+						0,
+						0
+					],
+					[
+						39000,
+						2,
+						375
+					],
+					[
+						39500,
+						1,
+						375
+					],
+					[
+						38000,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						38125,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						38375,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						38625,
+						2,
+						125,
+						"Hurt Note"
+					],
+					[
+						39000,
+						1,
+						375,
+						"Hurt Note"
+					],
+					[
+						39875,
+						1,
+						0,
+						"Hurt Note"
+					],
+					[
+						39875,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						39875,
+						2,
+						0,
+						"Hurt Note"
+					],
+					[
+						39875,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						39750,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						39625,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						39500,
+						3,
+						0,
+						"Hurt Note"
+					],
+					[
+						39500,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						39625,
+						0,
+						0,
+						"Hurt Note"
+					],
+					[
+						39750,
+						0,
+						0,
+						"Hurt Note"
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						40250,
+						0,
+						0
+					],
+					[
+						40500,
+						1,
+						0
+					],
+					[
+						41000,
+						2,
+						0
+					],
+					[
+						41500,
+						2,
+						0
+					],
+					[
+						41750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						42250,
+						0,
+						0
+					],
+					[
+						42500,
+						1,
+						0
+					],
+					[
+						43000,
+						2,
+						0
+					],
+					[
+						43500,
+						2,
+						0
+					],
+					[
+						43750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						44250,
+						0,
+						0
+					],
+					[
+						44500,
+						2,
+						0
+					],
+					[
+						44750,
+						3,
+						0
+					],
+					[
+						45000,
+						0,
+						0
+					],
+					[
+						45750,
+						0,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						46250,
+						0,
+						0
+					],
+					[
+						46500,
+						2,
+						0
+					],
+					[
+						46750,
+						3,
+						0
+					],
+					[
+						47000,
+						0,
+						0
+					],
+					[
+						47750,
+						0,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						48250,
+						0,
+						0
+					],
+					[
+						48500,
+						1,
+						0
+					],
+					[
+						48750,
+						3,
+						0
+					],
+					[
+						49000,
+						0,
+						0
+					],
+					[
+						49750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						50250,
+						0,
+						0
+					],
+					[
+						50500,
+						1,
+						0
+					],
+					[
+						50750,
+						3,
+						0
+					],
+					[
+						51000,
+						0,
+						0
+					],
+					[
+						51750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						52000,
+						3,
+						0
+					],
+					[
+						52250,
+						1,
+						0
+					],
+					[
+						52500,
+						1,
+						0
+					],
+					[
+						52750,
+						2,
+						0
+					],
+					[
+						53000,
+						3,
+						0
+					],
+					[
+						53250,
+						1,
+						0
+					],
+					[
+						53750,
+						0,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						54000,
+						3,
+						0
+					],
+					[
+						54250,
+						1,
+						0
+					],
+					[
+						54500,
+						1,
+						0
+					],
+					[
+						54750,
+						2,
+						0
+					],
+					[
+						55000,
+						3,
+						0
+					],
+					[
+						55250,
+						1,
+						0
+					],
+					[
+						55750,
+						0,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						56000,
+						3,
+						0
+					],
+					[
+						56500,
+						0,
+						0
+					],
+					[
+						57000,
+						1,
+						0
+					],
+					[
+						57250,
+						1,
+						0
+					],
+					[
+						57500,
+						0,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						58000,
+						1,
+						0
+					],
+					[
+						58250,
+						2,
+						0
+					],
+					[
+						58500,
+						3,
+						0
+					],
+					[
+						58750,
+						0,
+						0
+					],
+					[
+						59000,
+						2,
+						0
+					],
+					[
+						59250,
+						3,
+						0
+					],
+					[
+						59500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						60000,
+						3,
+						0
+					],
+					[
+						60500,
+						0,
+						0
+					],
+					[
+						61000,
+						1,
+						0
+					],
+					[
+						61250,
+						1,
+						0
+					],
+					[
+						61500,
+						0,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						62000,
+						1,
+						0
+					],
+					[
+						62250,
+						2,
+						0
+					],
+					[
+						62500,
+						3,
+						0
+					],
+					[
+						62750,
+						0,
+						0
+					],
+					[
+						63000,
+						2,
+						0
+					],
+					[
+						63250,
+						3,
+						0
+					],
+					[
+						63500,
+						1,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						64500.0039,
+						0,
+						0
+					],
+					[
+						64750.0039,
+						3,
+						0
+					],
+					[
+						65000.0039,
+						1,
+						0
+					],
+					[
+						65250.0039,
+						3,
+						0
+					],
+					[
+						65500.0039,
+						1,
+						0
+					],
+					[
+						65750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						66250,
+						0,
+						0
+					],
+					[
+						66500,
+						3,
+						0
+					],
+					[
+						66750,
+						0,
+						0
+					],
+					[
+						67000,
+						2,
+						375
+					],
+					[
+						67500,
+						1,
+						375
+					]
+				],
+				"mustHitSection": false
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						68500,
+						0,
+						0
+					],
+					[
+						68750,
+						3,
+						0
+					],
+					[
+						69000,
+						1,
+						0
+					],
+					[
+						69250,
+						3,
+						0
+					],
+					[
+						69500,
+						1,
+						0
+					],
+					[
+						69750,
+						2,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						70250,
+						0,
+						0
+					],
+					[
+						70500,
+						3,
+						0
+					],
+					[
+						70750,
+						0,
+						0
+					],
+					[
+						71000,
+						2,
+						375
+					],
+					[
+						71500,
+						1,
+						375
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						72000,
+						1,
+						0
+					],
+					[
+						72000,
+						5,
+						0
+					],
+					[
+						72250,
+						1,
+						0
+					],
+					[
+						72250,
+						5,
+						0
+					],
+					[
+						72500,
+						3,
+						0
+					],
+					[
+						72500,
+						7,
+						0
+					],
+					[
+						72875,
+						3,
+						0
+					],
+					[
+						72875,
+						7,
+						0
+					],
+					[
+						73125,
+						1,
+						0
+					],
+					[
+						73125,
+						5,
+						0
+					],
+					[
+						73250,
+						0,
+						0
+					],
+					[
+						73250,
+						4,
+						0
+					],
+					[
+						73500,
+						3,
+						0
+					],
+					[
+						73500,
+						2,
+						0
+					],
+					[
+						73500,
+						7,
+						0
+					],
+					[
+						73500,
+						6,
+						0
+					],
+					[
+						73750,
+						1,
+						0
+					],
+					[
+						73750,
+						5,
+						0
+					],
+					[
+						73875,
+						0,
+						125
+					],
+					[
+						73875,
+						4,
+						125
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						74000,
+						1,
+						0
+					],
+					[
+						74250,
+						1,
+						0
+					],
+					[
+						74500,
+						3,
+						0
+					],
+					[
+						74875,
+						3,
+						0
+					],
+					[
+						75125,
+						1,
+						0
+					],
+					[
+						75250,
+						0,
+						0
+					],
+					[
+						75500,
+						3,
+						0
+					],
+					[
+						75500,
+						2,
+						0
+					],
+					[
+						75750,
+						1,
+						0
+					],
+					[
+						75875,
+						0,
+						125
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						76000,
+						1,
+						0
+					],
+					[
+						76000,
+						5,
+						0
+					],
+					[
+						76250,
+						1,
+						0
+					],
+					[
+						76250,
+						5,
+						0
+					],
+					[
+						76500,
+						3,
+						0
+					],
+					[
+						76500,
+						7,
+						0
+					],
+					[
+						76875,
+						3,
+						0
+					],
+					[
+						76875,
+						7,
+						0
+					],
+					[
+						77125,
+						1,
+						0
+					],
+					[
+						77125,
+						5,
+						0
+					],
+					[
+						77250,
+						0,
+						0
+					],
+					[
+						77250,
+						4,
+						0
+					],
+					[
+						77500,
+						3,
+						0
+					],
+					[
+						77500,
+						2,
+						0
+					],
+					[
+						77500,
+						7,
+						0
+					],
+					[
+						77500,
+						6,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [
+					[
+						78000,
+						1,
+						0
+					],
+					[
+						78250,
+						1,
+						0
+					],
+					[
+						78500,
+						3,
+						0
+					],
+					[
+						78875,
+						3,
+						0
+					],
+					[
+						79125,
+						1,
+						0
+					],
+					[
+						79250,
+						0,
+						0
+					],
+					[
+						79500,
+						3,
+						0
+					],
+					[
+						79500,
+						2,
+						0
+					]
+				],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"sectionNotes": [],
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 120
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 120
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 120
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 120
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"gfVersion": "gf",
+		"events": [],
+		"player3": null,
+		"song": "Fresh",
+		"validScore": true,
+		"needsVoices": true,
+		"arrowSkin": "",
+		"speed": 1.8,
+		"bpm": 120
+	}
+}

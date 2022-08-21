@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "alleyway",
+		"player1": "bf",
+		"player2": "shit",
+		"player3": null,
+		"events": [
+			[
+				200,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				59200,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				65600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "keith"
+	}
+}

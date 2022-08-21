@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Hi Julian Gaming, Vegito (YOSHA), \rJulOverHeaven"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome to the FNF VsKids Mod FullWeek Beta Dev Version 1.0.5 Psych Engine Port"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This is the first song KEITH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "On opponent side use regular notes, not green shit notes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Double, Tripple and Quad notes is accepted"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Jacks too"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "CUZ ITS FUKIN JOK MOD"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Use Dodge notes when u hear: Table Breaking, Table Hit by finger (opponent shouldn't hit them, only bf)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and bf should hit them WHEN OPPONENT MAKE THESE SOUNDS and WHILE BF REPEAT OPPONENT NOTES AND WITH REGULAR NOTES U SHOULD PLACE DODGE"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Did U understand?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think probably yes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "good luck"
+		}
+	]
+}

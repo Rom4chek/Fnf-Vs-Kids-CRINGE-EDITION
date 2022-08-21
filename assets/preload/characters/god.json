@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				356,
+				370
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-30,
+				510
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				600,
+				290
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				420,
+				470
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				340,
+				850
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				350,
+				190
+			],
+			"loop": true,
+			"fps": 7,
+			"anim": "Spawn",
+			"indices": [],
+			"name": "spawn"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/StupidGodNormal",
+	"position": [
+		-280,
+		-80
+	],
+	"healthicon": "god-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-290,
+		-310
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

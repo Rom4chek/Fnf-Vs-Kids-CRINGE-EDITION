@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SHIT_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SHIT angry 0000" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry 0001" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry 0002" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry 0003" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry 0004" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0000" x="467" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0001" x="467" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0002" x="934" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0003" x="934" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0004" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT angry LOOP0005" x="0" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused 0000" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused 0001" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused 0002" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused 0003" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused 0004" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused LOOP 0000" x="1868" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT confused LOOP 0001" x="1868" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT confused LOOP 0002" x="2335" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT confused LOOP 0003" x="2335" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT confused LOOP 0004" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT confused LOOP 0005" x="1401" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default 0000" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default 0001" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default 0002" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default 0003" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default 0004" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default LOOP0000" x="3269" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT default LOOP0001" x="3269" y="0" width="457" height="455"/>
+	<SubTexture name="SHIT default LOOP0002" x="0" y="465" width="457" height="455"/>
+	<SubTexture name="SHIT default LOOP0003" x="0" y="465" width="457" height="455"/>
+	<SubTexture name="SHIT default LOOP0004" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT default LOOP0005" x="2802" y="0" width="457" height="454"/>
+	<SubTexture name="SHIT excited 0000" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited 0001" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited 0002" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited 0003" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited 0004" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0000" x="934" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0001" x="934" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0002" x="1401" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0003" x="1401" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0004" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT excited LOOP0005" x="467" y="465" width="457" height="454"/>
+	<SubTexture name="SHIT shock 0000" x="1868" y="465" width="457" height="425"/>
+	<SubTexture name="SHIT shock 0001" x="2335" y="465" width="457" height="425"/>
+	<SubTexture name="SHIT shock 0002" x="2802" y="465" width="457" height="425"/>
+	<SubTexture name="SHIT shock 0003" x="3269" y="465" width="457" height="425"/>
+	<SubTexture name="SHIT shock LOOP 0000" x="0" y="930" width="457" height="426"/>
+	<SubTexture name="SHIT shock LOOP 0001" x="467" y="930" width="457" height="426"/>
+	<SubTexture name="SHIT shock LOOP 0002" x="934" y="930" width="457" height="426"/>
+</TextureAtlas>
